@@ -8,7 +8,7 @@
 #parent1{
     width: 99vw;
     height: 4rem;
-    border: 2px solid black;
+    margin-top: -18px;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -18,7 +18,7 @@
 .child1{
     width: 10rem;
     height: 2rem;
-    border: 1px solid red;
+   
     display: flex;
     justify-content: center;
     align-items: center;
@@ -33,7 +33,7 @@
 .child2{
     width: 20rem;
     height: 2rem;
-    border: 1px solid red;
+    
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -57,7 +57,7 @@
 .child3{
     width: 15rem;
     height: 2rem;
-    border: 1px solid red;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -80,7 +80,7 @@
 .child4{
     width: 10rem;
     height: 2rem;
-    border: 1px solid red;
+   
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -105,7 +105,7 @@
     /* position: absolute; */
     width: 99vw;
     height: 90vh;
-    border: 2px solid red;
+    
     
     /* display: flex;
     flex-direction: row;
@@ -137,7 +137,7 @@ z-index: 99;
 .info h3{
     font-size: 11rem;
     margin-left: 6rem;
-    margin-top: 6rem;
+
     opacity: 1.7;
    
 
@@ -154,7 +154,7 @@ border-radius: 3rem;
 #parent3{
     width: 99vw;
     height: 50vh;
-    border: 2px solid black;
+   
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -164,7 +164,7 @@ border-radius: 3rem;
 .child5,.child6,.child7{
     width: 20vw;
     height: 40vh;
-    border: 1px solid black;
+    
     display: flex;
 }
 
@@ -185,7 +185,7 @@ opacity: 0.5;
     flex-direction: column;
 
   
-    border: 2px solid red;
+    
 }
 .tag{
     width: 99vw;
@@ -195,7 +195,7 @@ opacity: 0.5;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid red;
+    
 }
 .pro{
     color: rgb(20, 142, 140) ;
@@ -216,12 +216,12 @@ opacity: 0.5;
     flex-direction: row;
     justify-content: space-evenly;
     
-    border: 1px solid black;
+    
 }
 .child8,.child9,.child10,.child11{
     width: 15vw;
     height: 40vh;
-    border: 1px solid black;
+   
 }
 .btn{
     margin-top: 2rem;
@@ -256,13 +256,13 @@ opacity: 0.5;
     flex-direction: row;
     justify-content: space-evenly;
     
-    border: 1px solid black;
+   
 
 }
 #parent5{
     width: 99vw;
     height: 80vh;
-    border: 2px solid black;
+  
 
 }
 .winter img{
@@ -309,7 +309,7 @@ opacity: 0.5;
 #parent6{
     width: 99vw;
     height: 80vh;
-    border: 2px solid red;
+   
     display: flex;
     flex-direction: column;
     
@@ -318,7 +318,7 @@ opacity: 0.5;
 .review{
     width: 99vw;
     height: 5rem;
-    border: 1px solid black;
+    
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -334,7 +334,7 @@ opacity: 0.5;
 .friends{
     width: 99vw;
     height: 70vh;
-    border: 1px solid black;
+    
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -344,7 +344,7 @@ opacity: 0.5;
 .im1{
     width: 20rem;
     height: 20rem;
-    border: 1px solid red;
+   
     display: flex;
     flex-direction: column;
 
@@ -374,7 +374,7 @@ object-fit: cover;
 #parent7{
     width: 99vw;
     height: 40vh;
-    border: 2px solid blue;
+   
     display: flex;
     
 
@@ -410,7 +410,7 @@ padding: 2rem;
     flex-direction: row;
     justify-content:space-between;
     align-items: center;
-    border: 2px solid yellow;
+   
     background-color: rgb(244, 241, 241);
 
 }
@@ -438,7 +438,7 @@ padding: 2rem;
  
     width: 40vw;
     height: 4rem;
-    border: 1px solid red;
+  
 }
 .icon{
     display: flex;
@@ -451,14 +451,14 @@ padding: 2rem;
     flex-direction: column;
     width: 10vw;
     height: 40vh;
-    border: 1px solid black;
+    
 }
 .links{
     display: flex;
     flex-direction: column;
     width: 10vw;
     height: 40vh;
-    border: 1px solid black;
+   
     
 }
 .help{
@@ -466,7 +466,7 @@ padding: 2rem;
     flex-direction: column;
     width: 10vw;
     height: 40vh;
-    border: 1px solid black;
+ 
 
 }
 #parent8 p:hover{
